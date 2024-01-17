@@ -1,0 +1,32 @@
+h4{
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-align: center;
+margin-top: -2px;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.setscore{
+width: 220px;
+padding: 10px 18px;
+gap: 10px;
+background-color: white;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-top: 10px;
+border: 1px solid black;
+border-radius: 5px;
+}
+.Dice{
+  cursor: pointer;
+}
